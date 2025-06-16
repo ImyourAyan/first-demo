@@ -1,4 +1,4 @@
 # first-demo
 This is our first Git repository.
 <br>
-Author: Ayan Banerjee
+Author: A.B
